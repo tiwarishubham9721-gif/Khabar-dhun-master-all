@@ -1,0 +1,9 @@
+{
+  "package":"KHABAR_DHUN_FINAL_MASTER_CONTROL",
+  "version":"3.0.0",
+  "truth":"Software foundations included; external accounts, APIs, cloud deployment and broadcast hardware are not claimed connected without verification.",
+  "main_entry":"app/main.py",
+  "status":"BUILT_SOFTWARE_FOUNDATION; EXTERNAL_CONNECTIONS_REQUIRED",
+  "single_master_control":true,
+  "modules":["master_ai_command_center","newsroom_departments","news_intake","source_registry","rss_on_demand","story_clustering","verification_hold","sensitive_safety_gate","programming_master_control","output_source_registry","ads_payment_architecture","ai_call_centre_ticketing","website_route","security_audit","owner_auth"]
+}
