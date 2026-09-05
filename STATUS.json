@@ -1,0 +1,20 @@
+{
+  "software_foundation":"BUILT",
+  "master_control":"BUILT",
+  "master_ai_safe_command_registry":"BUILT",
+  "news_verification_gate":"BUILT",
+  "rss_on_demand_fetch":"BUILT",
+  "continuous_monitoring":"REQUIRED",
+  "cloud_deployment":"REQUIRED",
+  "public_domain":"REQUIRED",
+  "https_mfa_waf":"REQUIRED",
+  "youtube_meta_whatsapp":"REQUIRED_NOT_CONNECTED",
+  "ai_voice_anchor_video":"REQUIRED_NOT_CONNECTED",
+  "24x7_playout_encoder":"REQUIRED_NOT_CONNECTED",
+  "physical_studio":"REQUIRED_NOT_CONNECTED",
+  "final_output_lcd":"REQUIRED_NOT_CONNECTED",
+  "payment_gateway":"REQUIRED_NOT_CONNECTED",
+  "telephony_ivr":"REQUIRED_NOT_CONNECTED",
+  "epaper_automation":"REQUIRED_NOT_CONNECTED",
+  "android_apps":"REQUIRED_NOT_BUILT"
+}
