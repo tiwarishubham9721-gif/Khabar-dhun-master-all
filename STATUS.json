@@ -1,0 +1,20 @@
+{
+  "software_foundation":"BUILT",
+  "master_control":"BUILT",
+  "master_ai_safe_command_registry":"BUILT",
+  "news_verification_gate":"BUILT",
+  "rss_on_demand_fetch":"BUILT",
+  "continuous_monitoring":"BUILT_RUNTIME; RAILWAY_RUNTIME_TEST_REQUIRED",
+  "cloud_deployment":"RAILWAY_DEPLOYED_BUT_THIS_PACKAGE_VERSION_REQUIRES_REDEPLOY",
+  "public_domain":"RAILWAY_URL_REQUIRED_OR_CONFIGURED",
+  "https_mfa_waf":"PRODUCTION_HARDENING_REQUIRED",
+  "youtube_meta_whatsapp":"REQUIRED_NOT_CONNECTED",
+  "ai_voice_anchor_video":"REQUIRED_NOT_CONNECTED",
+  "24x7_playout_encoder":"REQUIRED_NOT_CONNECTED",
+  "physical_studio":"REQUIRED_NOT_CONNECTED",
+  "final_output_lcd":"REQUIRED_NOT_CONNECTED",
+  "payment_gateway":"REQUIRED_NOT_CONNECTED",
+  "telephony_ivr":"REQUIRED_NOT_CONNECTED",
+  "epaper_automation":"SOFTWARE_FRAMEWORK_ONLY",
+  "android_apps":"PWA_BUILT; NATIVE_APP_NOT_BUILT"
+}
