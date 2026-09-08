@@ -1,0 +1,10 @@
+{
+  "name": "KHABAR DHUN V11 — REAL LIVE IMPLEMENTATION",
+  "base": "V10 COMPLETE AUDITED",
+  "status_model": ["FUNCTIONAL","PARTIAL","UI ONLY","CONNECTION REQUIRED","ERROR"],
+  "truth_rule": "No fake LIVE/CONNECTED status.",
+  "major_monitor_sources": ["Aaj Tak","ABP News","India TV","News18 India","Zee News","TV9 Bharatvarsh","NDTV India","Times Now Navbharat","Republic Bharat","News24","CNBC Awaaz","DD News"],
+  "official_sources": ["PIB","Election Commission of India","IMD","RBI","TRAI","Indian Railways"],
+  "features_hardened": ["local-first priority","festival automation","self-promotion rotation","connections center","red alert","brand asset versioning","payroll incentive percentage","output queue truth states"],
+  "external_credentials_included": false
+}
