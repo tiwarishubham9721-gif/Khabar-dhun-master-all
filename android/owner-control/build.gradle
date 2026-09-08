@@ -1,0 +1,9 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'com.khabardhun.owner'; compileSdk 35
+    defaultConfig {
+        buildConfigField "String", "BACKEND_URL", "\"" + (project.findProperty("BACKEND_URL") ?: "https://YOUR-RAILWAY-DOMAIN") + "\""
+        applicationId 'com.khabardhun.owner'; minSdk 23; targetSdk 35; versionCode 1; versionName '1.0.0' }
+}
+
+dependencies { implementation 'androidx.core:core:1.15.0' }
